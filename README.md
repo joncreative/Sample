@@ -1,2 +1,2 @@
-# Sample
-Sample of a Repository
+# Keyword Tool
+Enter a keyword and get insights fetched from LLM
